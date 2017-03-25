@@ -7,7 +7,7 @@ This is a simple shell script for hide your location on the internet.
 
 Desciption
 -----------
-This scipt use basic hidden techniques. This is a list of things it does:
+This script use basic hidden techniques. This is a list of things it does:
 - Change your MAC adress to a random one.
 - use VPN tunneling to hide your IP adress and location.
 (this works for terminal connections like apt-get)
